@@ -48,7 +48,7 @@ Each directory contains the solution to a specific Project Euler problem.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/project-euler.git
+git clone https://github.com/krieshivkjn-hub/project-euler.git
 ```
 
 Navigate to the project directory:
